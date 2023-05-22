@@ -13,9 +13,6 @@ const blackJackModulo = (() => {
   const tipos = ["C", "D", "H", "S"],
     tiposEsp = ["A", "J", "Q", "K"];
 
-  // let cpuPuntos = 0,
-  //   jugadorPuntos = 0,
-
   let puntosJugadores = [],
     deck = [];
 
