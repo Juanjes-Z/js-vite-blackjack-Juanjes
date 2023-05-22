@@ -1,2 +1,2 @@
 # js-vite-blackjack
-Codigo Ejemplo Curso JavasCRipt FH.
+Codigo Ejemplo Curso JavaScript FH.
